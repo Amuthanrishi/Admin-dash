@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Admin-dash/static/css/main.0b5fc65e.css",
+    "main.js": "/Admin-dash/static/js/main.f98f7763.js",
+    "static/js/787.af67e72d.chunk.js": "/Admin-dash/static/js/787.af67e72d.chunk.js",
+    "index.html": "/Admin-dash/index.html",
+    "main.0b5fc65e.css.map": "/Admin-dash/static/css/main.0b5fc65e.css.map",
+    "main.f98f7763.js.map": "/Admin-dash/static/js/main.f98f7763.js.map",
+    "787.af67e72d.chunk.js.map": "/Admin-dash/static/js/787.af67e72d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b5fc65e.css",
+    "static/js/main.f98f7763.js"
+  ]
+}
